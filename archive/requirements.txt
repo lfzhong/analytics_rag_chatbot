@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+sentence-transformers
+sqlite-utils
