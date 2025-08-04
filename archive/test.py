@@ -11,7 +11,7 @@ from chain.preprocessor import prepare_documents
 import os
 
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = ""
 os.environ["LANGCHAIN_PROJECT"] = "local-ollama-analytics-agent"
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
